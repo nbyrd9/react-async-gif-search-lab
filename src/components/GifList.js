@@ -9,4 +9,4 @@ const GifList = props => {
   )
 }
 
-export default 
+export default GifList
